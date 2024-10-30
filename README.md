@@ -1,7 +1,9 @@
 # Hi there, I'm Lyna! 👋
 
-I'm an Algerian 3rd year computer science student.Web developer and UIUX designer.
+I'm a 3rd year computer science student. Web developer and UIUX designer.
 ---
+
+### 🚀 Tech Stack:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -13,12 +15,8 @@ I'm an Algerian 3rd year computer science student.Web developer and UIUX designe
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-
-
-
 ### 📊 GitHub Stats:
-![GitHub Stats](https://img.shields.io/github/stats/yourusername?theme=radical&show_icons=true&hide=contribs,prs)
-![Most Used Languages](https://img.shields.io/github/languages/top/yourusername/your-repo-name?color=blue&style=for-the-badge)
+![Lyna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lynlyna04&show_icons=true&theme=radical)
 
 ### 📬 Connect with Me:
 - Instagram: [@samcodees][instagram]
