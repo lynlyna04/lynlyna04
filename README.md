@@ -2,16 +2,16 @@
 
 I'm an Algerian 3rd year computer science student.Web developer and UIUX designer.
 ---
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_logo_and_wordmark.svg)
-![Python](https://www.python.org/community/logos/python-logo-master-v3-TM.png)
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
-![HTML5](https://upload.wikimedia.org/wikipedia/commons/d/d9/HTML5_logo_and_wordmark.svg)
-![CSS3](https://upload.wikimedia.org/wikipedia/commons/b/b2/CSS3_logo_and_wordmark.svg)
-![Git](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg)
-![Linux](https://upload.wikimedia.org/wikipedia/commons/d/d0/Tux.png)
-![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
-![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo_1.svg)
 
 
 
