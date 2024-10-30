@@ -1,6 +1,6 @@
 # Hi there, I'm Lyna! 👋
 
-I'm a 3rd year computer science student. Web developer and UIUX designer.
+3rd year computer science student. Web developer and UIUX designer.
 ---
 
 ### 🚀 Tech Stack:
