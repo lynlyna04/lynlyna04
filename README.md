@@ -18,6 +18,8 @@ I'm a 3rd year computer science student. Web developer and UIUX designer.
 ### 📊 GitHub Stats:
 ![Lyna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lynlyna04&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lynlyna04&layout=compact&theme=radical)
+
 ### 📬 Connect with Me:
 - Instagram: [@samcodees][instagram]
 - LinkedIn: (add your LinkedIn URL if you have one)
