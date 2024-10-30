@@ -4,11 +4,12 @@ I'm an Algerian 3rd year computer science student.Web developer and UIUX designe
 ---
 
 ### 🚀 Tech Stack:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🚀 Tech Stack:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=social&logo=linux&logoColor=black)
 
 ### 📊 GitHub Stats:
 ![GitHub Stats](https://img.shields.io/github/stats/yourusername?theme=radical&show_icons=true&hide=contribs,prs)
