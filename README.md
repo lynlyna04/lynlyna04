@@ -10,6 +10,9 @@ I'm an Algerian 3rd year computer science student.Web developer and UIUX designe
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+### 📊 GitHub Stats:
+![GitHub Stats](https://img.shields.io/github/stats/yourusername?theme=radical&show_icons=true&hide=contribs,prs)
+![Most Used Languages](https://img.shields.io/github/languages/top/yourusername/your-repo-name?color=blue&style=for-the-badge)
 
 ### 📬 Connect with Me:
 - Instagram: [@samcodees][instagram]
