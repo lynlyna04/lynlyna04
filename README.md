@@ -15,17 +15,15 @@ I'm a 3rd year computer science student. Web developer and UIUX designer.
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B400?style=for-the-badge&logo=c&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
 
 
 ### 📊 GitHub Stats:
 ![Lyna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lynlyna04&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lynlyna04&layout=compact&theme=radical)
-
-### 📬 Connect with Me:
-- Instagram: [@samcodees][instagram]
-- LinkedIn: (add your LinkedIn URL if you have one)
-- Personal Website (if applicable): (add here if you have one!)
 
 ---
 
