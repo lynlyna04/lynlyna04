@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Lyna! 👋
 
-<!--
-**lynlyna04/lynlyna04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Algerian 3rd year computer science student.Web developer and UIUX designer.
+---
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📬 Connect with Me:
+- Instagram: [@samcodees][instagram]
+- LinkedIn: (add your LinkedIn URL if you have one)
+- Personal Website (if applicable): (add here if you have one!)
+
+---
+
+**"Coding is not just about writing code; it's about solving problems and creating something meaningful."**
+
+Thanks for visiting my profile! Feel free to check out my repositories and let’s connect if you share similar interests. 😄
+
